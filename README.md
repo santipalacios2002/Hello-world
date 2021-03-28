@@ -1,4 +1,3 @@
-```
 
 - [ ] Mercury
 - [x] Venus
@@ -10,4 +9,3 @@
 - [ ] Neptune
 - [ ] Comet Haley
 
-```
