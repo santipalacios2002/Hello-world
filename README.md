@@ -9,4 +9,4 @@
 - [ ] Neptune
 - [ ] Comet Haley
 
-:heavy_check_mark:
+:heavy_check_mark: Mercury
